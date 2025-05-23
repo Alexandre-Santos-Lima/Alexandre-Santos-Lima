@@ -1,7 +1,4 @@
-Sou Alexandre, tenho 18 anos e estou no inicio de meus estudos na área da programação😬😬.
-Ja participei de alguns intensivões da *Hashtag Programação* e obtive alguns conhecimentos em python e javascript🤓, aprendi a fazer automações e um site para lojas ecommerce nesses intensivões.
-Estudo em casa fazendo testes, assistindo videos e aprendendo com o chatgpt. Atualmente estou estudando JavaScript, não muito distante ingressarei em uma faculdade EAD😤👍.
-Espero que goste dos meus trabalhos, farei questão de expor datas para que vejam e para que eu mesmo veja o tempo que demorei para chegar onde cheguei.✌️😎
+Sou Alexandre, GameDev Roblox e Make Code e Gestor de Automações.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
