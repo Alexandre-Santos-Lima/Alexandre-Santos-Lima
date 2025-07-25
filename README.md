@@ -7,7 +7,7 @@
   
 # Sou Alexandre Santos Lima <br> Automation Analist | AI Builder | GameDev Roblox | GameDev Make Code
 <br>
-Tecnologia e inovação sempre foram parte do meu caminho. Como Analista de Automação, transformo processos complexos em fluxos simples, inteligentes e eficientes. Meu trabalho é conectar sistemas, reduzir tarefas repetitivas e entregar soluções que fazem a diferença no dia a dia das equipes. Estou em constante evolução, acompanhando tendências e explorando novas ferramentas para criar automações que realmente geram valor.
+Como Analista de Automação focado na construção de agentes de IA, transformo processos em fluxos inteligentes com tecnologia, inovação e estratégia.
 </div>
 
 ---
