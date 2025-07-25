@@ -1,13 +1,41 @@
-Sou Alexandre, Gestor de Automações, GameDev Roblox e Make Code.
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS"    height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+<div align="right">
   
-  ##
+![](https://komarev.com/ghpvc/?username=Alexandre-Santos-Lima&color=006bed)
+[![GitHub](https://img.shields.io/github/followers/Alexandre-Santos-Lima?label=follow&style=social)](https://github.com/Alexandre-Santos-Lima)
+</div>
+<div align="center">
+  
+# Sou Alexandre Santos Lima <br> Automation Analist | AI Builder | GameDev Roblox | GameDev Make Code
+<br>
+Tecnologia e inovação sempre foram parte do meu caminho. Como Analista de Automação, transformo processos complexos em fluxos simples, inteligentes e eficientes. Meu trabalho é conectar sistemas, reduzir tarefas repetitivas e entregar soluções que fazem a diferença no dia a dia das equipes. Estou em constante evolução, acompanhando tendências e explorando novas ferramentas para criar automações que realmente geram valor.
+</div>
+
+---
+
+### 💻 Hard Skills
+
+#### 🖥️ Sistemas Operacionais
+- ![Linux](https://img.shields.io/badge/-Linux-333333?style=plastic&logo=linux) ![Debian](https://img.shields.io/badge/-Debian-333333?style=plastic&logo=debian) ![Windows](https://img.shields.io/badge/-Windows-333333?style=plastic&logo=windows)
+
+#### 💻 Linguagens de Programação e Frameworks
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript) ![Python](https://img.shields.io/badge/Python-333333?style=plastic&logo=python) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=node.js) ![Express](https://img.shields.io/badge/-Express-333333?style=plastic&logo=express) ![npm](https://img.shields.io/badge/-npm-333333?style=plastic&logo=npm) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=plastic&logo=HTML5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=plastic&logo=CSS3&logoColor=1572B6) ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=plastic&logo=selenium) ![Puppeteer](https://img.shields.io/badge/-Puppeteer-333333?style=plastic&logo=puppeteer)
+
+#### 💾 Bancos de Dados
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=postgresql) ![Redis](https://img.shields.io/badge/-Redis-333333?style=plastic&logo=redis) ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=plastic&logo=supabase) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=plastic&logo=firebase)
+
+#### 🛠️ Ferramentas de Desenvolvimento e DevOps
+- ![Docker](https://img.shields.io/badge/-Docker-333333?style=plastic&logo=docker) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333333?style=plastic&logo=github-actions) ![Git](https://img.shields.io/badge/-Git-333333?style=plastic&logo=git) ![Traefik](https://img.shields.io/badge/-Traefik-333333?style=plastic&logo=traefik)
+
+#### ☁️ Cloud e Monitoramento
+- ![AWS](https://img.shields.io/badge/-AWS-333333?style=plastic&logo=amazon-aws) ![GCP](https://img.shields.io/badge/-GCP-333333?style=plastic&logo=google-cloud) ![Hetzner](https://img.shields.io/badge/-Hetzner-333333?style=plastic&logo=hetzner) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=plastic&logo=cloudflare)
+
+#### 🛠 Outras Ferramentas e Tecnologias
+- ![Visual Studio Code](https://img.shields.io/badge/-VSCode-333333?style=plastic&logo=visual-studio-code) ![Cursor](https://img.shields.io/badge/-Cursor-333333?style=plastic&logo=cursor) ![Rest API](https://img.shields.io/badge/-Rest_API-333333?style=plastic) ![n8n](https://img.shields.io/badge/-n8n-333333?style=plastic) 
+
+#### 🤖 Ferramentas de Inteligência Artificial
+- ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=plastic&logo=openai) ![LLM](https://img.shields.io/badge/-LLM-333333?style=plastic&logo=llm)
+
+##
  
 <div> 
   <a href = "https://www.instagram.com/alexandreslima.oficial/">            <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
