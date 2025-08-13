@@ -43,3 +43,9 @@ Como Analista de Automação focado na construção de agentes de IA, transformo
   <a href = "https://www.linkedin.com/in/alexandre-santos-lima-391aa2376/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "https://api.whatsapp.com/send?phone=5595984028327">            <img src="https://img.shields.io/badge/whatsapp-whatsapp?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alexandre-Santos-Lima&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Alexandre Santos Lima github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Santos-Lima&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&hide=assembly,c%2b%2b,cmake,css,html,jupyter%20notebook,vhdl&exclude_repo=dotfiles" />
+</div>
