@@ -51,5 +51,5 @@ Como Analista de Automação focado na construção de agentes de IA, transformo
 ### 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img width="800" src="https://github-profile-trophy.vercel.app/?username=guilhermejansen&column=8&theme=darkhub&no-frame=true&no-bg=true" />
+  <img width="800" src="https://github-profile-trophy.vercel.app/?username=Alexandre-Santos-Lima&column=8&theme=darkhub&no-frame=true&no-bg=true" />
 </p>
