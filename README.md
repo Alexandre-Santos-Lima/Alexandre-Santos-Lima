@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   
-# Sou Alexandre Santos Lima  <br> Automation Analist | AI Builder | GameDev Roblox | GameDev MakeCode
+# Sou Alexandre Santos Lima  <br> Automation Manager | AI Builder | GameDev Roblox | GameDev MakeCode
 </div>
 
 ### 💻 Hard Skills
