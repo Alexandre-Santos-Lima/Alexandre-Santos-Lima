@@ -36,7 +36,7 @@
 <div align="center"> 
   <a href = "https://www.instagram.com/alexandreslima.oficial/">            <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:contatosantos12ddt@gmail.com">                          <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href = "https://www.linkedin.com/in/alexandre-santos-lima-391aa2376/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "https://www.linkedin.com/in/alexandreslima-oficial/">          <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "https://api.whatsapp.com/send?phone=5595984028327">            <img src="https://img.shields.io/badge/whatsapp-whatsapp?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
