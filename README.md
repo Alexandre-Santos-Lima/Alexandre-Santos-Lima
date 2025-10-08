@@ -14,7 +14,8 @@
 - ![Linux](https://img.shields.io/badge/-Linux-333333?style=plastic&logo=linux&logoColor=white) ![Debian](https://img.shields.io/badge/-Debian-333333?style=plastic&logo=debian&logoColor=red) ![Windows](https://img.shields.io/badge/Windows-333333?style=plastic&logo=windows&logoColor=0078D6) 
 
 #### 💻 Programming Languages ​​and Frameworks
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript) ![Python](https://img.shields.io/badge/Python-333333?style=plastic&logo=python) ![Lua](https://img.shields.io/badge/-Lua-333333?style=plastic&logo=lua&logoColor=blue) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=node.js) ![Express](https://img.shields.io/badge/-Express-333333?style=plastic&logo=express) ![npm](https://img.shields.io/badge/-npm-333333?style=plastic&logo=npm&logoColor=red) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=plastic&logo=HTML5) ![CSS3](https://img.shields.io/badge/CSS-333333?style=plastic&logo=css3&logoColor=1572B6) ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=plastic&logo=selenium) ![Puppeteer](https://img.shields.io/badge/-Puppeteer-333333?style=plastic&logo=puppeteer)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript) ![Python](https://img.shields.io/badge/Python-333333?style=plastic&logo=python) ![Lua](https://img.shields.io/badge/-Lua-333333?style=plastic&logo=lua&logoColor=blue) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=node.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=plastic&logo=typescript)
+ ![Express](https://img.shields.io/badge/-Express-333333?style=plastic&logo=express) ![npm](https://img.shields.io/badge/-npm-333333?style=plastic&logo=npm&logoColor=red) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=plastic&logo=HTML5) ![CSS3](https://img.shields.io/badge/CSS-333333?style=plastic&logo=css3&logoColor=1572B6) ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=plastic&logo=selenium) ![Puppeteer](https://img.shields.io/badge/-Puppeteer-333333?style=plastic&logo=puppeteer)
 
 #### 💾 Databases
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=postgresql) ![Redis](https://img.shields.io/badge/-Redis-333333?style=plastic&logo=redis) ![MinIO](https://img.shields.io/badge/MinIO-333333?style=plastic&logo=minio&logoColor=F44F00) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-333333?style=plastic&logo=rabbitmq&logoColor=FF6600) ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=plastic&logo=supabase)
@@ -29,7 +30,8 @@
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=plastic&logo=visualstudiocode) ![Cursor](https://img.shields.io/badge/-Cursor-333333?style=plastic&logo=cursor) ![Rest API](https://img.shields.io/badge/-Rest_API-333333?style=plastic) ![n8n](https://img.shields.io/badge/n8n-333333?style=plastic&logo=n8n&logoColor=red) ![Chatwoot](https://img.shields.io/badge/Chatwoot-333333?style=plastic&logo=chatwoot&logoColor=#00A79D) ![Portainer](https://img.shields.io/badge/Portainer-333333?style=plastic&logo=portainer&logoColor=0078D6)
 
 #### 🤖 Artificial Intelligence Tools
-- ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=plastic&logo=openai) ![LLM](https://img.shields.io/badge/-LLM-333333?style=plastic&logo=llm) ![Gemini](https://img.shields.io/badge/Gemini-333333?style=plastic&logo=google&logoColor=white)
+- ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=plastic&logo=openai) ![LLM](https://img.shields.io/badge/-LLM-333333?style=plastic&logo=llm) ![Gemini](https://img.shields.io/badge/Gemini-333333?style=plastic&logo=google&logoColor=white) ![ClaudeAI](https://img.shields.io/badge/-ClaudeAI-333333?style=plastic&logo=anthropic)
+
 
 ##
  
