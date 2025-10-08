@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   
-# I'm Alexandre Santos Lima  <br> Backend Developer | Automation Manager | AI Builder | DevOps
+# I'm Alexandre Santos Lima  <br> Full Stack Developer | Automation Manager | AI Builder | DevOps
 </div>
 
 ### 💻 Hard Skills
