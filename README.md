@@ -42,6 +42,8 @@
   <a href = "https://api.whatsapp.com/send?phone=5595984028327">            <img src="https://img.shields.io/badge/whatsapp-whatsapp?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
-<div align="center">  
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Santos-Lima&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&hide=assembly,c%2b%2b,cmake,css,html,jupyter%20notebook,vhdl&exclude_repo=dotfiles" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexandre-Santos-Lima&theme=algolia" alt="Detalhes do Perfil">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alexandre-Santos-Lima&theme=algolia" alt="Linguagens">
 </div>
