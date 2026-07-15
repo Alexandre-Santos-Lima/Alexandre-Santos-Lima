@@ -23,7 +23,6 @@
 ![React](https://img.shields.io/badge/React-0a0e17?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0a0e17?style=for-the-badge&logo=next.js&logoColor=ffffff)
 ![Three.js](https://img.shields.io/badge/Three.js-0a0e17?style=for-the-badge&logo=three.js&logoColor=ffffff)
-![Express](https://img.shields.io/badge/Express-0a0e17?style=for-the-badge&logo=express&logoColor=ffffff)
 
 ### 🗄️ Data & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0e17?style=for-the-badge&logo=postgresql&logoColor=4169E1)
